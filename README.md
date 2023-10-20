@@ -7,9 +7,7 @@ To study the execution of various Linux operating system commands.
 
 ## Linux:
 
-Linux is an open-source operating system. The kernel is the heart of Linux OS which
- 
-helps the communication between hardware and software. The main advantage of Linux was that programmers can use Linux kernel to design their own custom OS.
+Linux is an open-source operating system. The kernel is the heart of Linux OS which helps the communication between hardware and software. The main advantage of Linux was that programmers can use Linux kernel to design their own custom OS.
 
 ### Linux Commands:
 All basic and advanced tasks can be done by executing commands. The commands are executed on Linux terminal. Linux commands are case sensitive.
@@ -209,6 +207,7 @@ The gzip command is used to truncate the file size. It is a compressing tool. It
 
 #### Syntax: gzip <file1> <file2> <file3>..
 
+![ex01_24](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-01-Linux-Commands/assets/119559905/51fbbbd1-bccc-4be0-a965-d4ae2e195c7c)
 
 ### 25)	sort Command
 
@@ -216,13 +215,15 @@ The sort command is used to sort files in alphabetical order.
 
 #### Syntax:sort <file name>
 
- 
+ ![ex01_25](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-01-Linux-Commands/assets/119559905/c866ecef-3530-4f3e-b9fe-74720a2c499e)
+
 ### 26)	cal Command
 
 The cal command is used to display the current month's calendar with the current date highlighted.
 
 #### Syntax: cal
 
+![ex01_26](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-01-Linux-Commands/assets/119559905/ce4a7e4d-a261-4edd-8346-87f9ef5de504)
 
 ### 27)	clear Command
 
@@ -230,6 +231,7 @@ Linux clear command is used to clear the terminal screen.
 
 #### Syntax: clear
 
+![ex01_27](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-01-Linux-Commands/assets/119559905/f8daf41c-5f0a-4cd7-9208-30a61ef3be17)
 
 ### 28)	mail Command
 
@@ -237,12 +239,15 @@ The mail command is used to send emails from the command line.
 
 #### Syntax: mail -s "Subject" <recipient address>
 
- 
+ ![ex01_28](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-01-Linux-Commands/assets/119559905/8137d995-b582-43e7-91d3-4efb8f47622a)
+
 ### 29)	df Command
 
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 #### Syntax: df
+
+![ex01_29](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-01-Linux-Commands/assets/119559905/ed2943dd-b2b6-4888-97ec-29ea6033534a)
 
 ### 30)	find Command
 
